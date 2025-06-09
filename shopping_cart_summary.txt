@@ -1,0 +1,4 @@
+Shopping Cart Summary:
+1. apple - $22.00
+
+Total: $22.00
